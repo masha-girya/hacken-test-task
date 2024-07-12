@@ -1,0 +1,7 @@
+body {
+  display: block;
+  margin: 8px;
+  height: max-content;
+  width: auto;
+  max-width: 100%;
+}
